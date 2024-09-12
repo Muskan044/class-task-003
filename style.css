@@ -52,3 +52,21 @@ h1{
     display: block;
     cursor: pointer;
 }
+/* result */
+.result-section{
+    width: 400px;
+    background-color: white;
+    color: #16325B;
+    display: none;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+#result{
+    background-color: #16325B;
+    color: white;
+    padding: .5rem 3rem;
+    margin: 0% auto;
+    font-size: large;
+    margin-top: 30px;
+}
