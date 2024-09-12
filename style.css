@@ -22,7 +22,7 @@ h1{
     align-items: center;
     margin-top: 80px;
     font-size: 50px;
-    color: rgb(52, 7, 70);
+    color: #16325B;
 }
 .quiz-container p{
     font-weight: 20px;
@@ -41,4 +41,14 @@ h1{
     border-radius: 5px;
     font-size: 15px;
     border: 1px solid gray;
+}
+#next{
+    width: 30%;
+    padding: 5px;
+    margin: 10px 225px;
+    background-color: #20457c;
+    color: white;
+    text-align: center;
+    display: block;
+    cursor: pointer;
 }
