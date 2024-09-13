@@ -28,6 +28,7 @@ h1 {
     margin-bottom: 20px;
     font-size: 18px;
     color: #001e4d;
+    font-weight: bold;
 }
 
 .choice {
@@ -51,6 +52,7 @@ h1 {
     margin-top: 20px;
     font-size: 16px;
     color: #333;
+    font-weight: bold;
 }
 
 #next-question {
@@ -68,4 +70,5 @@ h1 {
     margin-top: 20px;
     font-size: 16px;
     color: #333;
+    font-weight: bold;
 }
